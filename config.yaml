@@ -1,0 +1,8 @@
+
+db:
+  host: "95.217.118.254"
+  dbname: "test_database"
+  username: "test_user"
+  port: "5432"
+  password: "password"
+
